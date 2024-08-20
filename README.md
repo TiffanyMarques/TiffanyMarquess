@@ -1,5 +1,5 @@
 # TiffanyMarquess
-Boas vindas ao meu perfil!
+Boas vindas ao meu perfil !
 Meu nome é Tiffany Marques
 estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
